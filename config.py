@@ -1,7 +1,3 @@
-from os import environ as env
 
-from dotenv import load_dotenv
-load_dotenv()
-
-TOKEN = env['TOKEN']
-MANIFEST_URL = env['MANIFEST_URL']
+TOKEN = '7206512896:AAGX0LY1FRk0btz3imZr3kjJyB3vl-f_KBM'
+MANIFEST_URL = 'https://raw.githubusercontent.com/SabyrAlymbekov/tggarantbot/main/tonconnect-manifest.json'

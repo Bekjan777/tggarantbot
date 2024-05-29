@@ -1,5 +1,3 @@
-# connector.py
-
 from pytonconnect import TonConnect
 
 import config
